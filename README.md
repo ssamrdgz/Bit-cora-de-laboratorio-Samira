@@ -1,7 +1,7 @@
 # Bit-cora-de-laboratorio-Samira
 En este repositorio se estarán registrando las actividades del servicio social con el laboratorio de medicina computacional.
 
-Mi nombre es *Samira Sofía Rodríguez Peregrino*, tengo 22 años y actualmente curso el décimo semestre de la carrera de *Ingeniería Bioquímica* en el Instituto Tecnológico de La Paz.
+#Mi nombre es *Samira Sofía Rodríguez Peregrino*, tengo 22 años y actualmente curso el décimo semestre de la carrera de *Ingeniería Bioquímica* en el Instituto Tecnológico de La Paz.
 
 Inicié oficialmente mi *servicio social* en el *Laboratorio de Medicina Computacional* el lunes 23 de febrero de 2025. Este espacio interdisciplinario integra biología, medicina y programación para el desarrollo de herramientas tecnológicas aplicadas al área de la salud.
 
