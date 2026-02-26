@@ -13,3 +13,6 @@ Me interesa comprender cómo la programación y la inteligencia artificial puede
 ## Mis objetivos
 Durante este servicio social, espero adquirir conocimientos y desarrollar competencias en la aplicación de la programación al análisis de datos biomédicos, así como en métodos de procesamiento y análisis de datos. Asimismo, espero comprender los fundamentos y la aplicación de modelos de inteligencia artificial en el área de la salud, y su integración práctica con conocimientos biológicos y médicos.
 
+# Antecedentes
+- Durante mi etapa de formación he tenido la oportunidad de tomar un verano científico en Bodegas Santo Tomás, en donde logré adquirir confianza para trabajar en un laboratorio. 
+- Pude trabajar en el laboratorio de CICESE junto a la Dra. Claudia.
