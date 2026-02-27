@@ -31,6 +31,8 @@ Puedes contactarme a través de:
 
 En el laboratorio, un pequeño error en la técnica puede alterar un experimento; en programación, una sola línea puede cambiar todo el resultado.
 
+## Evidencias
+Foto durante el verano científico en Bodegas Santo Tómas
 <p align="center">
   <img src="Bodegas.jpeg" width="300">
 </p>
