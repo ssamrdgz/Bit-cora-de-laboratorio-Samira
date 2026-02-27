@@ -30,3 +30,5 @@ Puedes contactarme a través de:
 ## 🔬 Dato curioso
 
 En el laboratorio, un pequeño error en la técnica puede alterar un experimento; en programación, una sola línea puede cambiar todo el resultado.
+
+![Foto de Samira](img/Bodegas.jpg)
