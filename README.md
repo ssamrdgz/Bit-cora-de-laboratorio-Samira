@@ -1,38 +1,50 @@
-# Bit-cora-de-laboratorio-Samira
-En este repositorio se estarán registrando las actividades del servicio social con el laboratorio de medicina computacional.
-
-# 🧪Samira Sofía Rodríguez Peregrino
-## 📌 Sobre mí
-Tengo 22 años y actualmente curso el décimo semestre de la carrera de *Ingeniería Bioquímica* en el Instituto Tecnológico de La Paz.
-
-## 🏥 Servicio Social
-Inicié oficialmente mi *servicio social* en el *Laboratorio de Medicina Computacional* el lunes 23 de febrero de 2025. Este espacio interdisciplinario integra biología, medicina y programación para el desarrollo de herramientas tecnológicas aplicadas al área de la salud.
-
-## 💻 Áreas de Interés
-Este periodo constituye una etapa formativa fundamental en mi desarrollo profesional y en la integración de conocimientos científicos con herramientas computacionales.
-
-Me interesa comprender cómo la programación y la inteligencia artificial pueden emplearse para identificar patrones asociados a enfermedades, analizar grandes volúmenes de datos clínicos y desarrollar modelos predictivos en el ámbito de la salud.
-
+# 🧪 Bitácora de laboratorio - Samira
+---
+## 💻🩺 Descripción
+Este repositorio recopila actividades, ejercicios y pruebas de código que forman parte de mi proceso de formación en el **laboratorio de medicina computacional**.  
+Este espacio representa una **bitácora de trabajo y aprendizaje**, en la que concentro distintos temas y técnicas que he ido practicando.
+Su propósito es registrar mi avance, organizar lo aprendido y construir una base de herramientas útiles para futuras aplicaciones en el análisis biomédico.
+--- 
+## 🎯 Objetivo
+Desarrollar y documentar habilidades computacionales aplicadas al área biomédica, mediante la práctica de herramientas y técnicas relacionadas con:
+- Procesamiento digital de imágenes
+- Mejora y transformación de imágenes
+- Análisis básico de imágenes médicas
+- Extracción de características visuales
+- Visualización de datos
+- Automatización de procesos con Python
+--- 
 ## 🎯 Mis objetivos
 Durante este servicio social, espero adquirir conocimientos y desarrollar competencias en la aplicación de la programación al análisis de datos biomédicos, así como en métodos de procesamiento y análisis de datos. Asimismo, espero comprender los fundamentos y la aplicación de modelos de inteligencia artificial en el área de la salud, y su integración práctica con conocimientos biológicos y médicos.
-
-## 🧬 Antecedentes Académicos
-
-- Verano científico en Bodegas Santo Tomás, donde fortalecí habilidades en trabajo de laboratorio y control de procesos.
-- Estancia en el laboratorio de CICESE bajo la asesoría de la Dra. Claudia, participando en actividades de investigación.
-
-## 📫 Contacto
-
-Puedes contactarme a través de:
-
-📧 L21310478@lapaz.tecnm.mx 
-
-## 🔬 Dato curioso
-
-En el laboratorio, un pequeño error en la técnica puede alterar un experimento; en programación, una sola línea puede cambiar todo el resultado.
-
-## Evidencias
-Foto durante el verano científico en Bodegas Santo Tómas
-<p align="center">
-  <img src="Bodegas.jpeg" width="300">
-</p>
+--- 
+## 🧠 Temas y técnicas trabajadas
+A lo largo de esta bitácora he practicado diferentes herramientas y conceptos, entre ellos:
+- 🖼️ Procesamiento de imágenes
+- ✨ Mejora y segmentación de imágenes
+- 📊 Análisis y visualización de datos
+- 🔢 Trabajo con matrices e imágenes biomédicas
+--- 
+## 🛠️ Herramientas utilizadas
+Las principales herramientas y librerías empleadas en esta bitácora son:
+- **Python**
+- **OpenCV**
+- **NumPy**
+- **Matplotlib**
+- **Jupyter Notebook**
+Estas herramientas me han permitido desarrollar ejercicios de análisis, visualización y procesamiento de imágenes con enfoque biomédico.
+--- 
+## 🩺 Aplicación en medicina computacional
+Los ejercicios y prácticas incluidos en esta bitácora están orientados al fortalecimiento de habilidades útiles en el área de **medicina computacional**, especialmente en temas como:
+- Análisis de imágenes médicas
+- Procesamiento digital aplicado a estructuras biológicas
+- Segmentación y mejora de imágenes
+- Extracción de información visual relevante
+- Uso de herramientas computacionales para apoyar la interpretación de datos biomédicos
+--- 
+## 👩‍🔬 Autora
+**Samira Sofía Rodríguez Peregrino**  
+Estudiante de Ingeniería Bioquímica en el Instituto Tecnológica de La Paz
+--- 
+## ✨ Notas
+Este repositorio se encuentra en constante crecimiento, ya que conforme avanzo en mi formación continúo agregando nuevos ejercicios, técnicas y herramientas.  
+Más que un conjunto de proyectos terminados, esta bitácora representa mi proceso de aprendizaje, experimentación y desarrollo dentro del campo de la medicina computacional.

@@ -1,0 +1,11 @@
+name: entorno_dental
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - numpy
+  - opencv
+  - tk
+  - pip
