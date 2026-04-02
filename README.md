@@ -1,9 +1,9 @@
 # 🧪 Bitácora de laboratorio - Samira
 ---
 ## 💻🩺 Descripción
-Este repositorio recopila actividades, ejercicios y pruebas de código que forman parte de mi proceso de formación en el laboratorio de medicina computacional.  
-Este espacio representa una bitácora de trabajo y aprendizaje, en la que concentro distintos temas y técnicas que he ido practicando.
-Su propósito es registrar mi avance, organizar lo aprendido y construir una base de herramientas útiles para futuras aplicaciones en el análisis biomédico.
+### Este repositorio recopila actividades, ejercicios y pruebas de código que forman parte de mi proceso de formación en el laboratorio de medicina computacional.  
+### Este espacio representa una bitácora de trabajo y aprendizaje, en la que concentro distintos temas y técnicas que he ido practicando.
+### Su propósito es registrar mi avance, organizar lo aprendido y construir una base de herramientas útiles para futuras aplicaciones en el análisis biomédico.
 --- 
 ## 🎯 Objetivo
 Desarrollar y documentar habilidades computacionales aplicadas al área biomédica, mediante la práctica de herramientas y técnicas relacionadas con:
